@@ -1,2 +1,2 @@
 # Algorithms
-Implementation of some algorithms
+JavaScript Implementation of some algorithms
